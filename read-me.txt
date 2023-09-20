@@ -1,0 +1,12 @@
+para um download em massa você deve criar um arquivo *.txt
+com os links dos videos do youtube e passar
+como parametro, um exemplo seria:
+./ydown.sh links.txt
+==================================================
+AVISO
+==================================================
+para usar o script você deve ter os seguintes
+programas instalados:
+* ffmpeg
+* yt-dlp
+
